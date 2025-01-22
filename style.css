@@ -1,0 +1,22 @@
+
+
+@media screen and (max-width: 413px){
+	.earn_header{
+		flex-direction: column;
+	}
+	.earn_header .jum_t{
+		margin-top: 0;
+	}
+	.earn_header .jum_t .login_vl{
+		margin-top: 2rem;
+	}
+	.con_jmb .n_se{
+		height: auto;
+		flex-direction: column;
+	}
+	.con_jmb .n_se .t-5{
+		gap: 2rem;
+		flex-direction: column;
+		padding: 30px 0;
+	}
+}
